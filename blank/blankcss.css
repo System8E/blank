@@ -1,0 +1,9 @@
+h1, p {
+  font-family: "Consolas", monospace;
+  text-align: center;
+}
+
+body {
+	background: linear-gradient(white, gray, black);
+	background-size: 100vw 100vh;
+}
